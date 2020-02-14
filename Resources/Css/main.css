@@ -1,0 +1,437 @@
+html{
+
+    margin: -0.5rem 0rem 0rem -0.5rem;
+
+}
+
+.o-Container-Main{
+
+    width: 118.9rem;
+    height: 29rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0rem 0rem 0rem 0rem;
+    background-color:#81C3EF;
+
+}
+
+.o-ContainerPhoto{
+
+   width: 18rem;
+   height: 18rem;
+   border-radius: 30rem;
+   background-color:  #B3811D;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   box-shadow: 0 0 0.6rem 0rem black;
+
+}
+
+.o-img-user{
+
+  width: 16.5rem;
+
+}
+
+.o-container-textPerfil{
+
+    width: 40rem;
+    height: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 0rem;
+
+}
+
+h1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h2{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+
+}
+
+h3{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+
+}
+
+.o-containerSeparator{
+
+    width: 117rem;
+    height: 0.2rem;
+    background-color: #81C3EF;
+    margin: 0.4rem 0rem 0rem 0rem;
+
+}
+
+.o-Container-AboutMe{
+
+    width: 50rem;
+    height: 69rem;
+    background-color: #81C3EF;
+    margin: 1rem 0rem 0rem 0rem;
+    padding: 1rem 5rem -0.5rem 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.o-ContainerTitle{
+
+    width: 40rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.o-ContainerFirst{
+
+    width: 45rem;
+    height: 29rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 0rem 0rem 1rem;
+
+}
+
+.o-container-InfoHome{
+
+    width: 10rem;
+    height: 3rem;
+    background-color: #B3811D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 0.6rem 0rem black;
+
+}
+
+.o-container-city{
+
+    width: 10rem;
+    height: 3rem;
+
+}
+
+.o-container-MapWorld{
+
+  padding: 4rem 0rem 0rem 1.6rem;
+  margin: -2rem 0rem 0rem 0rem;
+
+}
+
+.o-img-Map{
+
+    width: 41rem;
+
+}
+
+.o-ContainerSecond{
+
+    width: 20rem;
+    height: 12em;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    
+
+}
+
+.o-container-Age{
+
+    width: 8rem;
+    height: 3rem;
+    background-color: #B3811D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 0 0 0.6rem 0rem black;
+
+}
+
+.o-container-Adress{
+
+    width: 10rem;
+    height: 3rem;
+    background-color: #B3811D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 0 0 0.6rem 0rem black;
+
+}
+
+.o-container-TextAge{
+   
+    width: 10rem;
+    height: 3rem;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.o-container-TextAdress{
+   
+    width: 12rem;
+    height: 3rem;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.o-ContainerThird{
+    
+    width: 21rem;
+    height: 12em;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+
+.o-ContainerFour{
+
+    width: 45.5rem;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.o-ContainerFive{
+
+    width: 6rem;
+    height: 10em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.o-ContainerSix{
+
+    width: 26rem;
+    height: 10em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.o-container-bolaRed{
+
+    width: 3rem;
+    height: 3rem;
+    background-color: #B3811D;
+    border-radius: 2rem;
+
+}
+
+.o-container-bola{
+
+    width: 3rem;
+    height: 3rem;
+    background-color: black;
+    border-radius: 2rem;
+
+}
+
+.o-big-container{
+
+    width: 114.9rem;
+    height: 70rem;
+
+    padding: 5rem 2rem 0rem 2rem;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.o-Container-Skill{
+
+    width: 46rem;
+    height: 37rem;
+    background-color: #81C3EF;
+    padding: 0rem 2rem 0rem 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+
+.o-container-textSkill{
+
+    width: 150rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.o-img-skills{
+
+    width: 3.5rem;
+
+}
+
+.o-container-imgSkills{
+
+    width: 9rem;
+    height: 29.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+
+.o-container-BolasSkills{
+
+    width: 35rem;
+    height: 29.5rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.o-bola-Skill{
+
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 3rem;
+    background-color: black;
+
+}
+
+.o-container-FirstSkill{
+
+    width: 30rem;
+    height: 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.o-bola-Skill-brown{
+
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 3rem;
+    background-color: #B3811D;
+
+}
+
+.o-container-TextAcademic{
+
+    width: 40rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.o-Container-Academic{
+
+    width: 46rem;
+    height: 27rem;
+    background-color: #81C3EF;
+    padding: 2rem 2rem 0rem 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.o-container-imgUAO{
+
+    width: 20rem;
+    height: 16rem;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.o-img-UAO{
+
+    width: 15rem;
+    height: 15rem;
+
+}
+
+.o-container-TextUAO{
+
+    width: 25rem;
+    height: 10rem;
+
+}
+
+.o-container-contacts{
+
+    width: 116.9rem;
+    height: 22rem;
+    background-color: #81C3EF;
+    margin: 4rem 0rem 0rem 0rem;
+    padding: 1rem 0rem 0rem 2rem;
+
+}
+
+.o-container-textContacts{
+
+    width: 116rem;
+    height: 5rem;
+    background-color: chocolate;
+    display: flex;
+    justify-items: center;
+
+}
+
+.o-img-contacts{
+
+    width: 5rem;
+    height: 17rem;
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+
+.o-container-imgContacts{
+
+    width: 2.5rem;
+
+}
