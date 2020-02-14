@@ -14,6 +14,7 @@ html{
     justify-content: center;
     padding: 0rem 0rem 0rem 0rem;
     background-color:#81C3EF;
+    box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,0.16);
 
 }
 
@@ -88,6 +89,7 @@ h3{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,0.16);
 
 }
 
@@ -151,7 +153,6 @@ h3{
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    
 
 }
 
@@ -283,6 +284,7 @@ h3{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,0.16);
 
 }
 
@@ -371,6 +373,7 @@ h3{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,0.16);
 
 }
 
@@ -403,8 +406,11 @@ h3{
     width: 116.9rem;
     height: 22rem;
     background-color: #81C3EF;
-    margin: 4rem 0rem 0rem 0rem;
-    padding: 1rem 0rem 0rem 2rem;
+    margin: 7rem 0rem 0rem 0rem;
+    padding: 0rem 0rem 0rem 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
 
 }
 
@@ -412,7 +418,6 @@ h3{
 
     width: 116rem;
     height: 5rem;
-    background-color: chocolate;
     display: flex;
     justify-items: center;
 
@@ -420,18 +425,34 @@ h3{
 
 .o-img-contacts{
 
-    width: 5rem;
-    height: 17rem;
-    background-color: coral;
+    width: 3rem;
+    height: 13rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: flex-start;
 
 }
 
 .o-container-imgContacts{
 
-    width: 2.5rem;
+    width: 1.8rem;
+
+}
+
+.o-container-Info-Contacts{
+
+    width: 35rem;
+    height: 13rem;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.o-container-TextContact{
+
+    width: 25rem;
+    height: 2rem;
 
 }
